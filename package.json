@@ -1,0 +1,29 @@
+{
+  "name": "@webinfer/what-day-is-today",
+  "version": "1.0.0",
+  "description": "Sample - Get day of week",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhtiwariin/what-day-is-today.git"
+  },
+  "keywords": [
+    "Test",
+    "npm",
+    "-",
+    "get",
+    "day",
+    "of",
+    "week"
+  ],
+  "author": "webinfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhtiwariin/what-day-is-today/issues"
+  },
+  "homepage": "https://github.com/saurabhtiwariin/what-day-is-today#readme"
+}
