@@ -1,5 +1,7 @@
+import moment from "moment";
+
 const getDayOfWeek = () => {
-    return "Sunday"
+    return moment().format('dddd');
 }
 
 export { getDayOfWeek }
